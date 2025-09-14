@@ -48,8 +48,8 @@ The analysis is performed on the Online Retail dataset containing:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
+git clone https://github.com/Dhwani123p/Customer-Segmentation-Using-RFM-Analysis.git
+cd Customer-Segmentation-Using-RFM-Analysis
 ```
 
 2. Install the required dependencies:
